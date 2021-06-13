@@ -16,9 +16,16 @@ http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd|User-Agent=DmpPlay
 #EXTINF:-1 tvg-id="TV3" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (B)
 https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536409
 
+#EXTINF:-1 tvg-id="TV3" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (C)
+http://mantul.biz.id:8888/eko2/eko2/153
+
 
 #EXTINF:-1 tvg-id="TV6" group-title="ENTERTAINMENT" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="AwesomeTV" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123.png",Awesome TV
+http://mantul.biz.id:8888/eko2/eko2/10650
 
 #EXTINF:-1 tvg-id="NTV7" group-title="EDUCATION" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -109,23 +116,41 @@ http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 #EXTINF:-1 tvg-id="AstroRiaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
 https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536429
 
+#EXTINF:-1 tvg-id="AstroRiaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD (B)
+http://mantul.biz.id:8888/eko2/eko2/1105
+
 #EXTINF:-1 tvg-id="AstroPrimaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima HD
 https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536427
+
+#EXTINF:-1 tvg-id="AstroPrimaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima HD (B)
+http://mantul.biz.id:8888/eko2/eko2/5013
 
 #EXTINF:-1 tvg-id="AstroOasisHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Astro Oasis HD
 https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536424
 
+#EXTINF:-1 tvg-id="AstroOasisHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Astro Oasis HD (B)
+http://mantul.biz.id:8888/eko2/eko2/4998
+
 #EXTINF:-1 tvg-id="AstroWarnaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
 https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536431
 
+#EXTINF:-1 tvg-id="AstroWarnaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD (B)
+http://mantul.biz.id:8888/eko2/eko2/2555
+
 #EXTINF:-1 tvg-id="AstroCitraHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
 https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536434
+
+#EXTINF:-1 tvg-id="AstroCitraHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD (B)
+http://mantul.biz.id:8888/eko2/eko2/195
 
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Astro Ceria HD
 https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536426
 
 #EXTINF:-1 tvg-id="AstroBooHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png", Astro BOO HD
 https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536442
+
+#EXTINF:-1 tvg-id="AstroBooHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png", Astro BOO HD (B)
+http://mantul.biz.id:8888/eko2/eko2/5313
 
 
 #EXTINF:-1 tvg-id="PesonaHD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",Pesona HD
