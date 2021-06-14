@@ -9,7 +9,7 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV3" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDNiZjExYmMtZGNjNy0zNmI4LTgwNzItM2ZkY2RkZWFmMWY4
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:81?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
 http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd|User-Agent=DmpPlayer/20.0.25.15 (Android 7.1.2; accd121c-2f28-43fd-82ec-5165bdd83549; SM-G955F)
 # http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd|User-Agent=
 
@@ -29,17 +29,17 @@ http://mantul.biz.id:8888/eko2/eko2/10650
 
 #EXTINF:-1 tvg-id="NTV7" group-title="EDUCATION" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDNiZjExYmMtZGNjNy0zNmI4LTgwNzItM2ZkY2RkZWFmMWY4
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:81?deviceId=MDNiZjExYmMtZGNjNy0zNmI4LTgwNzItM2ZkY2RkZWFmMWY4
 http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
 
 #EXTINF:-1 tvg-id="8TV" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDNiZjExYmMtZGNjNy0zNmI4LTgwNzItM2ZkY2RkZWFmMWY4
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:81?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #EXTINF:-1 tvg-id="TV9" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:81?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="ENTERTAINMENT" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",Drama Sangat
