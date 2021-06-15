@@ -7,6 +7,9 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1 tvg-id="TV2" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
+EXTINF: -1 tvg-id="tv2.my" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="MALAYSIA", TV2
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065867
+
 #EXTINF:-1 tvg-id="TV3" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
