@@ -2,10 +2,18 @@
 #EXTM3U x-tvg-url=https://fvtv.link/premium/tv.xml.gz
 
 #EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptv.kampung.xyz/352870fcac48e518b61ae22689642247
+http://1.9.15.104/PLTV/88888888/224/3221227769/3221227769.mpd
+
+#EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+EXTINF: -1 tvg-id="tv2.my" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="MALAYSIA", TV2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptv.kampung.xyz/352870fcac48e518b61ae22689642247
+http://1.9.15.104/PLTV/88888888/224/3221227490/3221227490.mpd
+
 
 EXTINF: -1 tvg-id="tv2.my" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="MALAYSIA", TV2
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065867
