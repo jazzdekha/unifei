@@ -237,6 +237,10 @@ http://1.9.58.102/PLTV/88888888/224/3221227762/3221227762.mpd
 #EXTINF:-1 tvg-id="AstroVaanavilHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png",Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
+#EXTINF:-1 tvg-id="AstroVinmeenHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/202_300.png",Vinmeen
+http://mantul.biz.id:8888/eko1/eko1/4995
+
+
 #EXTINF:-1 tvg-id="ColorsTamilHD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
