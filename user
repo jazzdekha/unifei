@@ -80,15 +80,15 @@ http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 #EXTINF:-1  tvg-id="Channel5" group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 (B) 
 http://mantul.biz.id:8888/eko1/eko1/4945
 
-#EXTINF:-1 tvg-id="Channel8" group-title=""SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 
+#EXTINF:-1 tvg-id="Channel8" group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#EXTINF:-1 tvg-id="Channel8" group-title=""SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 (B)
+#EXTINF:-1 tvg-id="Channel8" group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 (B)
 http://mantul.biz.id:8888/eko1/eko1/4943
 
-#EXTINF:-1 tvg-id="ChannelU" group-title=""SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U 
+#EXTINF:-1 tvg-id="ChannelU" group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
@@ -102,7 +102,7 @@ http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
 # #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&
 # https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
 
-#EXTINF:-1 tvg-id="Suria" group-title=""SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria (B)
+#EXTINF:-1 tvg-id="Suria" group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria (B)
 http://mantul.biz.id:8888/eko1/eko1/4947
 
 
