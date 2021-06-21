@@ -689,6 +689,9 @@ https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536566
 #EXTINF: -1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS", Arena (B)
 http://mantul.biz.id:8888/eko2/eko2/4985
 
+#EXTINF: -1 tvg-id="WWE" tvg-name="Arena" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="SPORTS", WWE
+http://mantul.biz.id:8888/eko1/eko1/1078
+
 #EXTINF: -1 tvg-id="AstroSuperSportHD" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS", ASSP_A
 https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536567
 #EXTINF: -1 tvg-id="AstroSuperSportHD" tvg-name="ASSP_B" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS", ASSP_B
