@@ -646,7 +646,7 @@ https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
 #EXTINF:-1 tvg-id="beINSPORTS2" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports_2
-https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536579
+https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004491
 
 #EXTINF:-1 tvg-id="beINSPORTSMax" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports MAX
 http://mantul.biz.id:8888/eko2/eko2/5012
@@ -697,8 +697,11 @@ https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578754
 #EXTINF: -1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS", Arena (B)
 http://mantul.biz.id:8888/eko2/eko2/4985
 
-#EXTINF: -1 tvg-id="WWE" tvg-name="Arena" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="SPORTS", WWE
+#EXTINF: -1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="SPORTS", WWE
 http://mantul.biz.id:8888/eko1/eko1/1078
+
+#EXTINF: -1 tvg-id="FightSport" tvg-name="FightSport" tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS", Fight Sport
+https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004498
 
 #EXTINF: -1 tvg-id="AstroSuperSportHD" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS", ASSP_A
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066037
