@@ -320,7 +320,10 @@ https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 #EXTINF:-1 tvg-id="HBOHD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (C)
 https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004370
 
-#EXTINF:-1 tvg-id="HBOHitsHD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
+#EXTINF:-1 tvg-id="HBOHitsHD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits (A)
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOHitsHD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits (B)
 # https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
