@@ -713,7 +713,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578754
 
 #EXTINF: -1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS", Arena (B)
-http://mantul.biz.id:8888/eko2/eko2/4985
+https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004473
 
 #EXTINF: -1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="SPORTS", WWE
 http://mantul.biz.id:8888/eko1/eko1/1078
