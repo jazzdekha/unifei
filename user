@@ -141,7 +141,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
 
 #EXTINF:-1 tvg-id="AstroRiaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578654
+https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004334
 
 #EXTINF:-1 tvg-id="AstroRiaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD (B)
 http://mantul.biz.id:8888/eko2/eko2/1105
@@ -172,6 +172,9 @@ http://mantul.biz.id:8888/eko2/eko2/195
 
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Astro Ceria HD
 https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578734
+
+#EXTINF:-1 tvg-id="AstroCeriaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Astro Ceria HD (B)
+https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004329
 
 #EXTINF:-1 tvg-id="AstroBooHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png", Astro BOO HD
 https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578707
