@@ -132,8 +132,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
-#EXTINF:-1 tvg-id="AstroRiaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD 
-https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578654
 
 #EXTINF:-1 tvg-id="AstroRiaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD (A)
 https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004335
@@ -141,8 +139,6 @@ https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004335
 #EXTINF:-1 tvg-id="AstroRiaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD (B)
 https://m3u-editor.com/serve/782bab40-d338-11eb-8a04-2383af9f955a/322248728
 
-#EXTINF:-1 tvg-id="AstroPrimaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima HD 
-https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578655
 
 #EXTINF:-1 tvg-id="AstroPrimaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima HD (A)
 https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004331
@@ -150,8 +146,6 @@ https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004331
 #EXTINF:-1 tvg-id="AstroPrimaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima HD (B)
 https://m3u-editor.com/serve/782bab40-d338-11eb-8a04-2383af9f955a/322248729
 
-#EXTINF:-1 tvg-id="AstroOasisHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Astro Oasis HD
-https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578656
 
 #EXTINF:-1 tvg-id="AstroOasisHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Astro Oasis HD (A)
 https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004328
@@ -159,8 +153,6 @@ https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004328
 #EXTINF:-1 tvg-id="AstroOasisHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Astro Oasis HD (B)
 https://m3u-editor.com/serve/782bab40-d338-11eb-8a04-2383af9f955a/322248730
 
-#EXTINF:-1 tvg-id="AstroWarnaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD 
-https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578657
 
 #EXTINF:-1 tvg-id="AstroWarnaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD (A)
 https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578657
@@ -168,8 +160,6 @@ https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578657
 #EXTINF:-1 tvg-id="AstroWarnaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD (B)
 https://m3u-editor.com/serve/782bab40-d338-11eb-8a04-2383af9f955a/322248731
 
-#EXTINF:-1 tvg-id="AstroCitraHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578658
 
 #EXTINF:-1 tvg-id="AstroCitraHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD (A)
 https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578658
@@ -177,8 +167,6 @@ https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578658
 #EXTINF:-1 tvg-id="AstroCitraHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD (B)
 https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578658
 
-#EXTINF:-1 tvg-id="AstroCeriaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Astro Ceria HD
-https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578734
 
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Astro Ceria HD (A)
 https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578734
@@ -186,8 +174,6 @@ https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578734
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Astro Ceria HD (B)
 https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004329
 
-#EXTINF:-1 tvg-id="AstroBooHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png", Astro BOO HD 
-https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578707
 
 #EXTINF:-1 tvg-id="AstroBooHD" group-title="ASTRO BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png", Astro BOO HD (A)
 https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578707
