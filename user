@@ -643,14 +643,10 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglishHD" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF: -1 tvg-id="euro1.my" tvg-name="EURO 2020 (1)" tvg-logo="http://odwp.xyz/slogo/euro.png" group-title="SPORTS", EURO 2020 (1)
-https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578918
 
 #EXTINF: -1 tvg-id="euro1.my" tvg-name="EURO 2020 (1)" tvg-logo="http://odwp.xyz/slogo/euro.png" group-title="SPORTS", EURO 2020 (1)
 https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004474
 
-#EXTINF: -1 tvg-id="euro2.my" tvg-name="EURO 2020 (2)" tvg-logo="http://odwp.xyz/slogo/euro.png" group-title="SPORTS", EURO 2020 (2)
-https://m3u-editor.com/serve/88ba1cf0-ccec-11eb-8821-b9e21872ff8a/316578919
 
 #EXTINF: -1 tvg-id="euro2.my" tvg-name="EURO 2020 (2)" tvg-logo="http://odwp.xyz/slogo/euro.png" group-title="SPORTS", EURO 2020 (2)
 https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004475
