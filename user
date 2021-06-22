@@ -309,12 +309,15 @@ http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
-#EXTINF:-1 tvg-id="HBOHD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
+#EXTINF:-1 tvg-id="HBOHD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (A)
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOHD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (B)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
-#EXTINF:-1 tvg-id="HBOHD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (A)
+#EXTINF:-1 tvg-id="HBOHD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (C)
 https://m3u-editor.com/serve/054c4a80-d2f0-11eb-948b-033d9090bd7a/322004370
 
 #EXTINF:-1 tvg-id="HBOHitsHD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
